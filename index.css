@@ -52,4 +52,5 @@ button {
   font-weight: bold;
   background: rgb(241, 233, 248);
   margin-left: 20px;
+  vertical-align: middle;
 }
