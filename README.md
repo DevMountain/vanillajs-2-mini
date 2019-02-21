@@ -5,6 +5,7 @@
 In this project, we'll practice more vanilla JS DOM manipulation by creating a simple To Do List project. The basic HTML and CSS have been provided for you, and you will be adding in the Javascript to make the interface interactive.
 
 ## Example
+![Example](https://github.com/DevMountain/vanillajs-2-mini/blob/master/img/Example.png)
 
 ### Step 1
 
